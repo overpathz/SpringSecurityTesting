@@ -4,4 +4,6 @@ public enum Roles {
     HR,
     MANAGER,
     EMPLOYEE
+    ACTIVE,
+    DELETED
 }
